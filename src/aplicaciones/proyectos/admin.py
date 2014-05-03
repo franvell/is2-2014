@@ -1,5 +1,6 @@
 from django.contrib import admin
 from .models import Proyectos
+#FRAN
 
 class ProyectoAdmin (admin.ModelAdmin):
     list_display = ('id', 'nombre', 'lider', 'estado', 'fecha_inicio', 'duracion', 'is_active')

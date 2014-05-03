@@ -1,5 +1,5 @@
 """
-Django settings for sicp project.
+Django settings for sicp project. Configuraciones para el proyecto 
 
 For more information on this file, see
 https://docs.djangoproject.com/en/1.6/topics/settings/
